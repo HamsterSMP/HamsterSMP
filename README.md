@@ -1,2 +1,2 @@
-## Welcome!
-# This is the Minecraft HamsterSMP github page.
+# Welcome!
+## This is the Minecraft HamsterSMP github page.
