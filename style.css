@@ -17,6 +17,19 @@ header{
     */
 }
 
+nav{
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(185, 0, 0);
+    color: white;
+    border-radius: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 0, 10px;
+}
+
 p{
     font-size: 20px;
 }
